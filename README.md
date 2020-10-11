@@ -16,9 +16,9 @@
 
 ## 업데이트
 
-###[2020-10-12](https://github.com/hjie0314/memoming_git/tree/master/Project_0)
+*[2020-10-12](https://github.com/hjie0314/memoming_git/tree/master/Project_0)
 
-전체적인 앱 구상
-퀴즈 문제 풀고 나면 정답입니다 오답입니다 이미지 나온 이후 화면 에러
-추가 ++
+*전체적인 앱 구상
+*퀴즈 문제 풀고 나면 정답입니다 오답입니다 이미지 나온 이후 화면 에러
+*추가 ++
 
